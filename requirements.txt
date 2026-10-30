@@ -1,0 +1,5 @@
+# Runtime dependencies: none.
+#
+# wordcounter.py uses only the Python 3.9+ standard library.
+# Install the development extra (pytest) from requirements-dev.txt
+# when you want to run the tests.

@@ -1,0 +1,4 @@
+# Development dependencies. The program itself has no runtime dependencies.
+# Install with:
+#   python3 -m pip install -r requirements-dev.txt
+pytest>=7.0
